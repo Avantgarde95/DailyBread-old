@@ -1,0 +1,7 @@
+ - 프로그램 이름 : DailyBread
+ - 제작자 : 박훈민
+ - 버전 : 1.3
+ - 라이센스 : MIT License
+ - 문의 : 95phm@kaist.ac.kr
+ - GitHub 레포지토리 :
+   https://github.com/Avantgarde95/DailyBread

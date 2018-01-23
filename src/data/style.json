@@ -1,0 +1,197 @@
+{
+    "infobox": {
+        "label": {
+            "info": {
+                "width": 350,
+                "height": 150,
+                "font": "Malgun Gothic",
+                "size": 10,
+                "style": "bold",
+                "bg": "ghost white",
+                "fg": "black"
+            }
+        }
+    },
+    "helpbox": {
+        "text": {
+            "help": {
+                "width": 600,
+                "height": 400
+            }
+        },
+        "str": {
+            "help": {
+                "font": "Malgun Gothic",
+                "size": 11,
+                "style": "bold",
+                "bg": "light yellow",
+                "fg": "black"
+            }
+        }
+    },
+    "selector": {
+        "label": {
+            "header": {
+                "font": "Malgun Gothic",
+                "size": 13,
+                "style": "bold",
+                "bg": "light cyan",
+                "fg": "brown"
+            }
+        },
+        "canvas": {
+            "board": {
+                "cell_width": 40,
+                "cell_height": 30
+            }
+        },
+        "item": {
+            "weekdays": {
+                "font": "Malgun Gothic",
+                "size": 11,
+                "style": "bold",
+                "bg": "steel blue",
+                "fg": "azure"
+            },
+            "days": {
+                "font": "Malgun Gothic",
+                "size": 11,
+                "style": "bold",
+                "bg": "lavender",
+                "fg": "black",
+                "bg_highlight": "blue",
+                "fg_highlight": "white"
+            },
+            "checks": {
+                "bg": "dark green"
+            }
+        }
+    },
+    "editor": {
+        "panedwindow": {
+            "text": {
+                "bg": "skyblue"
+            },
+            "bread": {
+                "bg": "skyblue"
+            }
+        },
+        "label": {
+            "bible": {
+                "font": "Malgun Gothic",
+                "size": 13,
+                "style": "bold",
+                "bg": "plum3",
+                "fg": "black"
+            },
+            "review": {
+                "font": "Malgun Gothic",
+                "size": 13,
+                "style": "bold",
+                "bg": "plum3",
+                "fg": "black"
+            },
+            "thoughts": {
+                "font": "Malgun Gothic",
+                "size": 13,
+                "style": "bold",
+                "bg": "plum3",
+                "fg": "black"
+            },
+            "logo": {
+                "width": 200,
+                "height": 100,
+                "bg": "antique white"
+            }
+        },
+        "text": {
+            "bible": {
+                "width": 400,
+                "height": 300,
+                "bg": "lemon chiffon"
+            },
+            "review": {
+                "width": 400,
+                "height": 300,
+                "bg": "lavender"
+            },
+            "thoughts": {
+                "width": 600,
+                "height": 100,
+                "bg": "azure"
+            }
+        },
+        "str": {
+            "date": {
+                "font": "Malgun Gothic",
+                "size": 11,
+                "style": "bold",
+                "bg": "lemon chiffon",
+                "fg": "dark slate gray"
+            },
+            "part": {
+                "font": "Malgun Gothic",
+                "size": 12,
+                "style": "bold",
+                "bg": "lemon chiffon",
+                "fg": "brown"
+            },
+            "title": {
+                "font": "Malgun Gothic",
+                "size": 14,
+                "style": "bold",
+                "bg": "lemon chiffon",
+                "fg": "red"
+            },
+            "indices": {
+                "font": "Malgun Gothic",
+                "size": 11,
+                "style": "bold",
+                "bg": "lemon chiffon",
+                "fg": "blue"
+            },
+            "verses": {
+                "font": "Malgun Gothic",
+                "size": 11,
+                "style": "normal",
+                "bg": "lemon chiffon",
+                "fg": "black"
+            },
+            "comments": {
+                "font": "Malgun Gothic",
+                "size": 11,
+                "style": "normal",
+                "bg": "lavender",
+                "fg": "black"
+            },
+            "application": {
+                "font": "Malgun Gothic",
+                "size": 11,
+                "style": "bold",
+                "bg": "lavender",
+                "fg": "saddle brown"
+            },
+            "oneword": {
+                "font": "Malgun Gothic",
+                "size": 11,
+                "style": "bold",
+                "bg": "lavender",
+                "fg": "dark olive green"
+            },
+            "marks": {
+                "font": "Malgun Gothic",
+                "size": 14,
+                "style": "bold",
+                "bg": "lavender",
+                "fg": "SteelBlue4"
+            },
+            "thoughts": {
+                "font": "Malgun Gothic",
+                "size": 11,
+                "style": "normal",
+                "bg": "azure",
+                "fg": "black"
+            }
+        }
+    }
+}
