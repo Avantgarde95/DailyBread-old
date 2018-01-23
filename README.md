@@ -1,6 +1,6 @@
 # DailyBread-old
 
-## About
+### About
 (Unofficial) UBF DailyBread viewer for PC I wrote in 2016.
 This program provides the following functions:
 - Download a 'bread' at any date (by crawling [UBF Bible Service](http://bs.ubf.kr/))
