@@ -8,7 +8,7 @@ This program provides the following functions:
 - Save the bread in your computer
 - Export the bread as a text file
 This program has some bugs (ex. It doesn't parse the bread properly at some dates.),
-and it is very heavy (despite of its few functions).
+and it is very heavy (since it has to pack whole python and tk stuffs inside itself).
 I created this repository just for referring to my old program in the future.
 I will not upgrade this program, but write a new version in other language (ex. C++) from scratch in the future.
 
