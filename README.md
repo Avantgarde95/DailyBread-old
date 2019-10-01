@@ -1,5 +1,9 @@
 # DailyBread-old
 
+### Warning
+**Since something changed in UBF DailyBread service, this program does not work currently.**  
+(I'm not sure whether I'll fix the program, since I don't use this program currently and nobody around me uses this program...)
+
 ### About
 (Unofficial) UBF DailyBread viewer for PC I wrote in 2016.
 This program provides the following functions:
