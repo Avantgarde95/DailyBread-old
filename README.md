@@ -1,5 +1,7 @@
 # DailyBread-old
 
+**I'm not UBF member now, so this program won't be updated (maybe forever).**
+
 ### Warning
 **Since something changed in UBF DailyBread service, this program does not work currently.**  
 (I'm not sure whether I'll fix the program, since I don't use this program currently and nobody around me uses this program...)
