@@ -33,7 +33,3 @@ I will not upgrade this program, but write a new version in other language (ex. 
 
 ### Unittest
 You can run unittest by running ```python -m unittest discover``` inside the directory ```src```.  
-
-### Screenshots
-![DailyBread-old](https://i.imgur.com/MemBNxO.png)
-
